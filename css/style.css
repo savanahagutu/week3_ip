@@ -27,13 +27,24 @@ body{
 
 }
 
-/*#welcome{
-    padding: 20px 150px 50px;
-}*/
+/*Header Section*/
+
 .showcase h1{
-    font-size: 30px;
+    font-size: 45px;
     color: aliceblue;
 }
+
+.showcase p{
+    color: aliceblue;
+    
+}
+
+#mouse{
+    padding: 150px 50px 0.1505px;
+}
+
+/*End of Header Section*/
+
 
 .about-sec{
     height: 300px;
