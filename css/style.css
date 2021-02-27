@@ -66,13 +66,15 @@ body{
     text-align: center;
 }
 
-.what-section{
-    height: 300px;
-    background-color: blanchedalmond;
-    display: inline-block;
-    width: 100%;
+#what-section{
+    display:flex;
+    
 }
-.portfolio-sec{
+
+#what-section .design{
+    
+}
+/*.portfolio-sec{
     height: 300px;
     background-color: blanchedalmond;
     display: inline-block;
