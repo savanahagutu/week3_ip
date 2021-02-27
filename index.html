@@ -70,17 +70,15 @@
         </div>
     </section>
     <div class="form-container">
-        <h2>CONTACT US</h2>
-        <form>
-            <div class="form-group-section">
-                <input type="text" class="form-section" placeholder="Name..." name="nameid" name="nameid" size="25"  value="">
-                <input type="email" class="form-section" placeholder="Email..." name="emailid" name="emailid" size="25"  value="">
-            </div>
-            <div class="form-group">
-                <teaxtarea class="form-section" rows="10" id="textarea" placeholder="Your message here..."></teaxtarea>
-            </div>
-            <button type="submit" class="btn btn-primary col-md-1">Submit</button>
+        <div class="contact-section">
+            <h3>CONTACT US</h3>
+        <form class="contact-form" action="index.html" method="post">
+            <input id="nameid"  type="text" class="contact-form-text" placeholder="Name...">
+            <input id="emailid"  type="text" class="contact-form-text" placeholder="Email...">
+            <textarea class="contact-form-text-box" id="textarea" placeholder="Your message"> Your message here...</textarea>
         </form>
+        </div> 
+            <button type="submit" class="btn btn-primary col-md-1">Submit</button>
     </div>
     <footer>
         <img src="./social_icons/twitter.png" alt="twitter">
