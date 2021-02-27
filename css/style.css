@@ -39,8 +39,12 @@ body{
     
 }
 
-#mouse{
-    padding: 150px 50px 0.1505px;
+.showcase .mouse{
+    width: 175px;
+    height: 175px;
+    line-height: 175px;
+    text-align: center;
+    vertical-align: bottom;
 }
 
 /*End of Header Section*/
