@@ -30,7 +30,10 @@ body{
 /*#welcome{
     padding: 20px 150px 50px;
 }*/
-
+.showcase h1{
+    font-size: 30px;
+    color: aliceblue;
+}
 
 .about-sec{
     height: 300px;
