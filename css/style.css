@@ -39,15 +39,32 @@ body{
     
 }
 
-.mouse #mouse-click{
-    padding-top : 22px;
-    margin-top: 10%;
-    padding-bottom: 30px; 
-    
+#logo{
+  margin-top: 12px;
+  margin-bottom: 24px;
+  width: 70px;
+  height: 70px;;
+}
+#mouse-click{
+  padding-top : 22px;
+  margin-top: 30%;
+  padding-bottom: 30px; 
+}
+#mouse-click {
+  animation: bounce 2s infinite;
+}
+
+@keyframes bounce {
+  0%, 20%, 50%, 80%, 100% {
+    transform: translateY(0);
   }
-  #mouse-click {
-    animation: bounce 2s infinite;
+  40% {
+    transform: translateY(-55px);
   }
+  60% {
+    transform: translateY(-45px);
+  }
+}
 
 /*End of Header Section*/
 
