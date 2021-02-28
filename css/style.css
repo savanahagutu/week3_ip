@@ -52,6 +52,13 @@ body{
 /*End of Header Section*/
 
 /*Middle Section*/
+.col-sm-4 button{
+  border-radius: 5px;
+  border: none;
+  background: rgb(255, 253, 253);
+}
+
+
 #about{
     padding: 20px;
     background: #ffff;
