@@ -92,6 +92,19 @@ body{
     text-align: center;
 }
 
+/*What we do Section*/
+
+
+
+.show{
+  display: none;
+}
+
+
+
+
+/*end of what we do section*/
+
 .col-sm-4{
     text-align: center;
     padding: 19px;
