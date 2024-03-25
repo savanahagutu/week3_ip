@@ -2,7 +2,7 @@
 
 ## Author
 
-[Savanah-Agutu](https://github.com/savanahatieno/week3_ip.git)
+[Savanah-Agutu](https://savanahagutu.github.io/week3_ip/)
 
 ## Description
 
@@ -14,13 +14,13 @@ Delani Studio, where amaizing people are making designs in a fun environment
 
 
 ## Live Page 
-https://savanahatieno.github.io/week3_ip/
+https://savanahagutu.github.io/week3_ip/
 
 
 ## Installation / Setup instruction
 * Open Terminal {Ctrl+Alt+T}
 
-* git clone ```https://github.com/savanahatieno/week3_ip.git```
+* git clone ```https://savanahagutu.github.io/week3_ip/```
 
 * cd week3_ip
 
@@ -53,4 +53,4 @@ If you have any question or contributions, please email me at [agutusavanah7@gma
 
 ## License
 * *MIT License:*
-* Copyright (c) 2019 **Agutu Savanah**
+* Copyright (c) 2024 **Agutu Savanah**
